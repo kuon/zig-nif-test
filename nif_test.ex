@@ -1,4 +1,7 @@
 defmodule NifTest do
+  # This is called when the module is loaded
+  # It is important to call load_nifs from within the module, as
+  # NIF can only be loaded within the module it will populate
   @on_load :load_nifs
 
   def load_nifs do
