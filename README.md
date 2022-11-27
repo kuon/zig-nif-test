@@ -7,4 +7,4 @@ The full walkthrought of this code is available on my blog.
 
 ## License
 
-MIT @2022 Nicolas Goy
+MIT ©2022 Nicolas Goy
